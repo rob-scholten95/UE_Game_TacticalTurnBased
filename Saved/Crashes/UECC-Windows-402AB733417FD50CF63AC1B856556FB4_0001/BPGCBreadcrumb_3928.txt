@@ -1,0 +1,2 @@
+/Game/2-Blueprints/DebugMenu/Tabs/UW_Spells.UW_Spells:WidgetTree.UW_Button_Action_CastSpell
+/Game/2-Blueprints/DebugMenu/Actions/UW_Button_Action_CastSpell.UW_Button_Action_CastSpell_C
